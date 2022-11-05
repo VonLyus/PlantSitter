@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - BG
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 772048005
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Home_Icon
+    uniqueID: 2501857253
+    locked: 0
+  - name: Calender
+    uniqueID: 2595232737
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 2041465865
+    locked: 0
