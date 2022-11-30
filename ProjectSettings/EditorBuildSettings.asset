@@ -26,5 +26,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Plant_Register.unity
     guid: 13b1ee5e64fee6a4e8f4e192280115dc
+  - enabled: 1
+    path: Assets/Scenes/DictionaryInfo.unity
+    guid: dc81616678037c6469f246dc9ed473b7
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 823dd4fb9fcca674fab96f926530378d, type: 2}

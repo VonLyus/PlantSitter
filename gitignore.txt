@@ -1,0 +1,10 @@
+m_Sprite
+
+Assets/Images/My_Plants/Sample_Plant.png.
+
+
+bdd54cd21e6a2d3498251fc0d86e9592
+
+m_SizeDelta.y
+
+-1750
