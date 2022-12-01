@@ -30,4 +30,6 @@ EditorBuildSettings:
     path: Assets/Scenes/DictionaryInfo.unity
     guid: dc81616678037c6469f246dc9ed473b7
   m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9db8d2b16e748f44389daa59cccb4b15, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: fa7f526a593febf41a47dbbdd6fb7f0c, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 823dd4fb9fcca674fab96f926530378d, type: 2}
